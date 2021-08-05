@@ -1,0 +1,16 @@
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\stringMethods\bin\Debug\net5.0\stringMethods.exe
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\stringMethods\bin\Debug\net5.0\stringMethods.deps.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\stringMethods\bin\Debug\net5.0\stringMethods.runtimeconfig.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\stringMethods\bin\Debug\net5.0\stringMethods.runtimeconfig.dev.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\stringMethods\bin\Debug\net5.0\stringMethods.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\stringMethods\bin\Debug\net5.0\ref\stringMethods.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\stringMethods\bin\Debug\net5.0\stringMethods.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\stringMethods\obj\Debug\net5.0\stringMethods.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\stringMethods\obj\Debug\net5.0\stringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\stringMethods\obj\Debug\net5.0\stringMethods.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\stringMethods\obj\Debug\net5.0\stringMethods.AssemblyInfo.cs
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\stringMethods\obj\Debug\net5.0\stringMethods.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\stringMethods\obj\Debug\net5.0\stringMethods.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\stringMethods\obj\Debug\net5.0\ref\stringMethods.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\stringMethods\obj\Debug\net5.0\stringMethods.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\stringMethods\obj\Debug\net5.0\stringMethods.genruntimeconfig.cache
